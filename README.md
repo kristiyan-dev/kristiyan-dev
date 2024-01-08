@@ -1,5 +1,5 @@
 
-<<<name = Kristiyan>>>
+Hello, I'm Kristiyan Dimitrov, I'm studying python now
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kristiyan-dev&theme=iceberg&border_radius=60&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
