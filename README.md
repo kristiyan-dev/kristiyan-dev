@@ -1,6 +1,6 @@
 
-Hello, I'm Kristiyan Dimitrov, I'm studying python now
 
+Hi, I'm Kristian Dimitrov, I'm currently learning python through SoftUni
 
 <!--
 **kristiyan-dev/kristiyan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
