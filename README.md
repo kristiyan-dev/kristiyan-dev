@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristiyan-dev&hide_progress=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kristiyan-dev&show_icons=true&theme=radical)
+
